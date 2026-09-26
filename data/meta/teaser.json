@@ -1,0 +1,103 @@
+{
+  "generated_at": "2026-09-26T21:06:59Z",
+  "day": "2026-09-26",
+  "potd": [
+    {
+      "id": "97c579519086c1dc",
+      "league": "NCAAF",
+      "matchup": "Oklahoma State Cowboys @ West Virginia Mountaineers",
+      "home": "West Virginia Mountaineers",
+      "away": "Oklahoma State Cowboys",
+      "commence_time": "2026-09-26T23:00:00Z",
+      "market": "Drew Mestemaker Rush Yds",
+      "market_key": "p_rush_yds_drew-mestemaker",
+      "selection": "Over 7.5",
+      "book_key": "fd",
+      "price": -112.0,
+      "fair_prob": 0.5742655311644982,
+      "edge_pct": 8.700261256137143,
+      "kelly": 0.09744292606873613,
+      "fair_source": "sharp",
+      "reason": "FanDuel’s -112 price implies about 53% for Over, but the sharp line (Pinnacle + ProphetX + BetOnline.ag, de-vigged) puts the true chance at 57% — FanDuel is paying as if it’s 4 points less likely than it is, worth a +8.7% edge at 2% of bankroll (quarter Kelly, max 5u). Season data: he averages 35 per game over 3 games against a line of 7.5, which puts the Over at about 76%. Blended with the market’s 51% for 57%."
+    },
+    {
+      "id": "be07430def44355c",
+      "league": "MLB",
+      "matchup": "Texas Rangers @ Minnesota Twins",
+      "home": "Minnesota Twins",
+      "away": "Texas Rangers",
+      "commence_time": "2026-09-26T22:11:00Z",
+      "market": "Nicky Lopez H+R+RBI",
+      "market_key": "p_hits_runs_rbis_nicky-lopez",
+      "selection": "Over 1.5",
+      "book_key": "mgm",
+      "price": 140.0,
+      "fair_prob": 0.46153846153846145,
+      "edge_pct": 10.769230769230752,
+      "kelly": 0.07692307692307673,
+      "fair_source": "sharp",
+      "reason": "BetMGM’s +140 price implies about 42% for Over, but the sharp line (BetOnline.ag, de-vigged) puts the true chance at 46% — BetMGM is paying as if it’s 4 points less likely than it is, worth a +10.8% edge at 2% of bankroll (quarter Kelly, max 5u)."
+    }
+  ],
+  "best": [
+    {
+      "id": "3a9d0603be6c3f4a",
+      "league": "NFL",
+      "matchup": "Los Angeles Chargers @ Buffalo Bills",
+      "home": "Buffalo Bills",
+      "away": "Los Angeles Chargers",
+      "commence_time": "2026-09-27T17:00:00Z",
+      "market": "Omarion Hampton Anytime TD",
+      "market_key": "p_anytime_td_omarion-hampton",
+      "selection": "Yes",
+      "book_key": "mgm",
+      "price": -105.0,
+      "fair_prob": 0.5817547718533331,
+      "edge_pct": 13.580693552317413,
+      "kelly": 0.14259728229933286,
+      "fair_source": "td_model",
+      "reason": "BetMGM’s -105 implies 51%. Season data: 2 TDs in 2 games (50% of his team’s TDs, 35% of its carries + targets). His team is expected to score about 2.4 TDs here (from the spread and total), so the data gives him 61% to score; the other books imply 55%. Half and half: 58% fair, +13.6% edge."
+    },
+    {
+      "id": "e113941536b516e3",
+      "league": "NFL",
+      "matchup": "Cincinnati Bengals @ Pittsburgh Steelers",
+      "home": "Pittsburgh Steelers",
+      "away": "Cincinnati Bengals",
+      "commence_time": "2026-09-27T17:00:00Z",
+      "market": "Chase Brown Anytime TD",
+      "market_key": "p_anytime_td_chase-brown",
+      "selection": "Yes",
+      "book_key": "mgm",
+      "price": -111.0,
+      "fair_prob": 0.5760514672357895,
+      "edge_pct": 9.50167530337982,
+      "kelly": 0.10546859586751586,
+      "fair_source": "td_model",
+      "reason": "BetMGM’s -111 implies 53%. Season data: 1 TD in 2 games (25% of his team’s TDs, 41% of its carries + targets). His team is expected to score about 2.6 TDs here (from the spread and total), so the data gives him 62% to score; the other books imply 53%. Half and half: 58% fair, +9.5% edge."
+    },
+    {
+      "id": "4cb7bbde03edcd4f",
+      "league": "NFL",
+      "matchup": "Carolina Panthers @ Cleveland Browns",
+      "home": "Cleveland Browns",
+      "away": "Carolina Panthers",
+      "commence_time": "2026-09-27T17:00:00Z",
+      "market": "Spread",
+      "market_key": "sp",
+      "selection": "Browns +5.5",
+      "book_key": "dk",
+      "price": -195.0,
+      "fair_prob": 0.6961880739109197,
+      "edge_pct": 5.320759899344268,
+      "kelly": 0.10375481803721325,
+      "fair_source": "sim",
+      "reason": "DraftKings’s -195 on Browns +5.5 is a different number than the sharp line (Browns +2.5), so it’s priced from our market-anchored simulation of this game (fit to the sharp spread, total and moneyline, with real key-number effects): wins 69.6%, loses 30.4% — worth a +5.3% edge at 3% of bankroll (quarter Kelly, max 5u). (Alternate line.)"
+    }
+  ],
+  "counts": {
+    "today": 21,
+    "best": 4,
+    "parlays": 11
+  }
+}

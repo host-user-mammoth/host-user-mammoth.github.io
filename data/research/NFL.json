@@ -1,0 +1,32 @@
+{
+  "games": {
+    "Buffalo Bills|Detroit Lions": {
+      "notes": [
+        {
+          "source": "NFL Network (Cameron Wolfe) via heavy.com Week 2 workload report; Sharp Football Analysis 2025 run-D splits; SI.com Bills Week 2 injury report (all Sep 2026)",
+          "text": "Gibbs had a career-high 34 touches in Week 1 and Lions beat reporters say the plan is to get him 'close to that' again Thursday vs Buffalo -- not a scaled-back role. Bills' run defense allowed 5.0 YPC (30th) and an explosive run on 12.5% of RB carries (30th) last season, and enter this game thin up front (Ed Oliver has a spotty availability history; DL depth piece T.J. Sanders out sick, not injury-related). Both signals support the workload/opportunity side of the TD prop; neither is a red-zone-carry-share stat specifically, so kept to a modest +2pt nudge rather than a bigger one.",
+          "type": "usage"
+        }
+      ],
+      "propAdjustments": {
+        "p_anytime_td_jahmyr-gibbs": {
+          "Yes": 0.02
+        }
+      }
+    },
+    "Kansas City Chiefs|Denver Broncos": {
+      "adjustments": {
+        "Denver Broncos": 0.02,
+        "Kansas City Chiefs": -0.02
+      },
+      "notes": [
+        {
+          "source": "Athlon Sports, NBC Sports, Yahoo Sports final injury reports (Sep 2026)",
+          "text": "Chiefs are without starting LT Josh Simmons (back) and starting SS Chamarri Conner (knee), both ruled out on the final injury report -- a real pass-protection dent for Mahomes even though several other starters (Chris Jones, L'Jarius Sneed, Xavier Worthy, Rashee Rice) are playing through lesser injuries. Broncos have zero injury designations and a full 53-man roster available -- a meaningfully healthier team than the line reflects.",
+          "type": "injury"
+        }
+      ]
+    }
+  },
+  "researched_at": "2026-09-16T22:53:00Z"
+}

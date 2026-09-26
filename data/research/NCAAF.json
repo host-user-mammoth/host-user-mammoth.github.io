@@ -1,0 +1,18 @@
+{
+  "games": {
+    "Kentucky Wildcats|Alabama Crimson Tide": {
+      "adjustments": {
+        "Alabama Crimson Tide": -0.035,
+        "Kentucky Wildcats": 0.035
+      },
+      "notes": [
+        {
+          "source": "Saturday Down South, On3, SI (Sep 2026)",
+          "text": "Alabama is missing 6 players for this game including 3 defensive backs (Zyan Gibson, Nick Sherman, Jorden Edmonds), a WR, LB and DL, with 3 more questionable/doubtful. Kentucky gets transfer RB Jovantae Barnes back after he missed the opener.",
+          "type": "injury"
+        }
+      ]
+    }
+  },
+  "researched_at": "2026-09-11T20:00:00Z"
+}

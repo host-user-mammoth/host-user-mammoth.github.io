@@ -1,0 +1,33 @@
+{
+  "poll": "AP Top 25",
+  "through_games": "2026-09-07",
+  "fetched_from": "https://www.ncaa.com/rankings/football/fbs/associated-press",
+  "note": "Exact team names as they appear in The Odds API board data -- NOT substring-matchable. Prefix matching is unsafe here: 'Georgia' would wrongly catch Georgia Southern/State/Tech, 'Texas' would catch Texas State/Southern, 'Miami' would catch Miami (OH) when the ranked team is Miami (FL), etc. Update weekly; build_board.ps1 uses this to decide which CFB games get full bet-slip links, and the app uses it to pick which games appear on the Featured tab.",
+  "teams": [
+    { "rank": 1,  "school": "Ohio State",   "board_name": "Ohio State Buckeyes" },
+    { "rank": 2,  "school": "Georgia",      "board_name": "Georgia Bulldogs" },
+    { "rank": 3,  "school": "Notre Dame",   "board_name": "Notre Dame Fighting Irish" },
+    { "rank": 4,  "school": "Texas",        "board_name": "Texas Longhorns" },
+    { "rank": 5,  "school": "Indiana",      "board_name": "Indiana Hoosiers" },
+    { "rank": 6,  "school": "Oregon",       "board_name": "Oregon Ducks" },
+    { "rank": 7,  "school": "Miami (FL)",   "board_name": "Miami Hurricanes" },
+    { "rank": 8,  "school": "LSU",          "board_name": "LSU Tigers" },
+    { "rank": 9,  "school": "Ole Miss",     "board_name": "Ole Miss Rebels" },
+    { "rank": 10, "school": "Texas A&M",    "board_name": "Texas A&M Aggies" },
+    { "rank": 11, "school": "Oklahoma",     "board_name": "Oklahoma Sooners" },
+    { "rank": 12, "school": "Alabama",      "board_name": "Alabama Crimson Tide" },
+    { "rank": 13, "school": "Texas Tech",   "board_name": "Texas Tech Red Raiders" },
+    { "rank": 14, "school": "Southern Cal", "board_name": "USC Trojans" },
+    { "rank": 15, "school": "BYU",          "board_name": "BYU Cougars" },
+    { "rank": 16, "school": "Penn State",   "board_name": "Penn State Nittany Lions" },
+    { "rank": 17, "school": "SMU",          "board_name": "SMU Mustangs" },
+    { "rank": 18, "school": "Tennessee",    "board_name": "Tennessee Volunteers" },
+    { "rank": 19, "school": "Washington",   "board_name": "Washington Huskies" },
+    { "rank": 20, "school": "Utah",         "board_name": "Utah Utes" },
+    { "rank": 21, "school": "Iowa",         "board_name": "Iowa Hawkeyes" },
+    { "rank": 22, "school": "Houston",      "board_name": "Houston Cougars" },
+    { "rank": 23, "school": "Missouri",     "board_name": "Missouri Tigers" },
+    { "rank": 24, "school": "Louisville",   "board_name": "Louisville Cardinals" },
+    { "rank": 25, "school": "Virginia",     "board_name": "Virginia Cavaliers" }
+  ]
+}

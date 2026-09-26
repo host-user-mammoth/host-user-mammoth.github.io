@@ -1,0 +1,1 @@
+{"paywall":{"enabled":false,"joinUrl":"","loginUrl":"/auth/login","logoutUrl":"/auth/logout","meUrl":"/api/me","manageUrl":"https://whop.com/@me/settings/memberships/","freeTabs":["board","potd","picks","track","legal"],"teaserPicks":3,"dataLayout":"flat"}}
